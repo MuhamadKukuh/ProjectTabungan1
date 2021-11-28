@@ -1,12 +1,16 @@
 <?php include '../../public/head/head.php'; ?>
 <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4 shadow-sm" style="height: 65px;">
   <div class="container-fluid">
+<<<<<<< HEAD
     <div>
       <a class="navbar-brand" href="../home/home.php">TabunganQ</a>
       <a class="navbar-brand" href="../dashboard/dashboard.php">Beranda</a>
       <a class="navbar-brand" href="../home/riwayat.php">Riwayat</a>
       <a class="navbar-brand" href="../home/profile.php">Akun</a>
     </div>
+=======
+    <a class="navbar-brand" href="../home/home.php">TabunganQ</a>
+>>>>>>> 987258ebe59fd68e95f1de099c144f7295c6ce73
       <div class="d-flex">
         <div class="collapse navbar-collapse">
           <div class="dropstart ms-3">
