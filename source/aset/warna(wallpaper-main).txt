@@ -1,0 +1,5 @@
+wallpaper :
+pink = #ffd6fb
+merah = #f62669
+putih = #ffffff
+base = #83ffe4

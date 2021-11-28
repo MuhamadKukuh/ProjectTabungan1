@@ -1,0 +1,19 @@
+.pp-1{
+	width:50px; 
+	height:50px;
+	border-radius:100%;
+}
+	.pp-2{
+		width:150px;
+		height:150px;
+		border-radius:100%;
+	}
+
+
+.bg-img{
+	background-image: url('../../source/Aset/wallpaper-main.png');
+}
+
+.bg-img-dark{
+	background-image: url('../../source/Aset/darktheme-body.png');
+}
